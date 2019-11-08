@@ -1,1 +1,1 @@
-# openGL_c-
+# openGL_c++
