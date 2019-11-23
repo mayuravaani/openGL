@@ -1,4 +1,4 @@
-# openGL with C++
+# opengl with C++
 
 Outline
 
